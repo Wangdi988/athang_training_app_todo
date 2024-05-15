@@ -23,8 +23,8 @@ class MyApp extends StatelessWidget {
       ),
       // home: Home(),
       // home: PlantLanging(),
-      // home: PlaceLanding(),
-      home: GOFITLanding()
+      home: PlaceLanding(),
+      // home: GOFITLanding()
     );
   }
 }
