@@ -8,12 +8,7 @@ class PlantLanging extends StatelessWidget {
   @override
   Widget build(BuildContext context){
     return Scaffold(
-      // appBar: AppBar(backgroundColor: const Color.fromARGB(255, 248, 247, 245), title: const Text('Discovery',
-
       
-      // style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-      // )),
-
     appBar: AppBar(
           title: Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,

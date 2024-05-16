@@ -56,9 +56,7 @@ class GofitProducts extends StatelessWidget{
             child: Column(
               children: [
                 Container(
-                  // child: const Text("See all",
-                  // style: TextStyle(fontSize: 15),
-                  // ),
+                 
                   height: 170,
                   width:double.infinity,
                   child: ClipRRect(
@@ -67,8 +65,7 @@ class GofitProducts extends StatelessWidget{
                       'https://img.fruugo.com/product/1/05/812864051_max.jpg',
                       // Paris
                       fit: BoxFit.cover,
-                      // height: 100, 
-                      // width: 100, 
+                     
                     ),
                   ),
                 ),

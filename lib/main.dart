@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_application_2/screens/GofitLanding.dart';
 import 'package:flutter_application_2/screens/PlaceLanding.dart';
 import 'package:flutter_application_2/screens/PlantLanding.dart';
+import 'package:flutter_application_2/screens/travel/Intro.travel.dart';
 // import 'package:flutter_application_2/screens/PlantLanding.dart';
 // import 'package:flutter_application_2/screens/home.dart';
 
@@ -23,8 +24,9 @@ class MyApp extends StatelessWidget {
       ),
       // home: Home(),
       // home: PlantLanging(),
-      home: PlaceLanding(),
+      // home: PlaceLanding(),
       // home: GOFITLanding()
+      home: IntroTravel()
     );
   }
 }
